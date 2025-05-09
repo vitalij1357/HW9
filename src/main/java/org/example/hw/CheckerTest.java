@@ -1,4 +1,4 @@
-package HW;
+package org.example.hw;
 
 public class CheckerTest {
     public static void main(String[] args) {

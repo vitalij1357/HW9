@@ -1,4 +1,4 @@
-package HW;
+package org.example.hw;
 
 import java.util.Scanner;
 
